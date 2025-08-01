@@ -1,3 +1,5 @@
+Prerequisites:
+Install Visual Studio 2022.
 
 1.	Install dpinst86 file for 32 bit and dpinst64 for 64 bit operating system installed machine.
   
